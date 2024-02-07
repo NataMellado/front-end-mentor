@@ -1,0 +1,15 @@
+[submodule "1-recipe-page"]
+	path = 1-recipe-page
+	url = https://github.com/NataMellado/recipe-page-challenge
+[submodule "2-blog-preview-card"]
+	path = 2-blog-preview-card
+	url = https://github.com/NataMellado/blog-card-challenge
+[submodule "3-social-links-profile"]
+	path = 3-social-links-profile
+	url = https://github.com/NataMellado/social-links-profile-challenge
+[submodule "4-results-summary-component"]
+	path = 4-results-summary-component
+	url = https://github.com/NataMellado/results-sumary-component-challenge
+[submodule "5-product-preview-card"]
+	path = 5-product-preview-card
+	url = https://github.com/NataMellado/product-preview-component-challenge
