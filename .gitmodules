@@ -14,3 +14,7 @@
 [submodule "5-product-preview-card"]
 	path = 5-product-preview-card
 	url = https://github.com/NataMellado/product-preview-component-challenge
+[submodule "blog-card-challenge"]
+	path = blog-card-challenge
+	url = https://github.com/NataMellado/blog-card-challenge
+	branch = main
