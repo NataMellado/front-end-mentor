@@ -1,6 +1,7 @@
 [submodule "1-recipe-page"]
 	path = 1-recipe-page
 	url = https://github.com/NataMellado/recipe-page-challenge
+	branch = main
 [submodule "2-blog-preview-card"]
 	path = 2-blog-preview-card
 	url = https://github.com/NataMellado/blog-card-challenge
