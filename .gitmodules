@@ -8,6 +8,7 @@
 [submodule "3-social-links-profile"]
 	path = 3-social-links-profile
 	url = https://github.com/NataMellado/social-links-profile-challenge
+	branch = main
 [submodule "4-results-summary-component"]
 	path = 4-results-summary-component
 	url = https://github.com/NataMellado/results-sumary-component-challenge
