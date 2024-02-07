@@ -12,6 +12,7 @@
 [submodule "4-results-summary-component"]
 	path = 4-results-summary-component
 	url = https://github.com/NataMellado/results-sumary-component-challenge
+	branch = main
 [submodule "5-product-preview-card"]
 	path = 5-product-preview-card
 	url = https://github.com/NataMellado/product-preview-component-challenge
