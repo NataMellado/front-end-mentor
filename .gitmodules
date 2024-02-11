@@ -2,9 +2,10 @@
 	path = 1-recipe-page
 	url = https://github.com/NataMellado/recipe-page-challenge
 	branch = main
-[submodule "2-blog-preview-card"]
-	path = 2-blog-preview-card
+[submodule "2-blog-card-challenge"]
+	path = 2-blog-card-challenge
 	url = https://github.com/NataMellado/blog-card-challenge
+	branch = main
 [submodule "3-social-links-profile"]
 	path = 3-social-links-profile
 	url = https://github.com/NataMellado/social-links-profile-challenge
@@ -16,12 +17,4 @@
 [submodule "5-product-preview-card"]
 	path = 5-product-preview-card
 	url = https://github.com/NataMellado/product-preview-component-challenge
-	branch = main
-[submodule "blog-card-challenge"]
-	path = blog-card-challenge
-	url = https://github.com/NataMellado/blog-card-challenge
-	branch = main
-[submodule "2-blog-card-challenge"]
-	path = 2-blog-card-challenge
-	url = https://github.com/NataMellado/blog-card-challenge
 	branch = main
