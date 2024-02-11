@@ -21,3 +21,7 @@
 	path = blog-card-challenge
 	url = https://github.com/NataMellado/blog-card-challenge
 	branch = main
+[submodule "2-blog-card-challenge"]
+	path = 2-blog-card-challenge
+	url = https://github.com/NataMellado/blog-card-challenge
+	branch = main
