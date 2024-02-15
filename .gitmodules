@@ -18,3 +18,7 @@
 	path = 5-product-preview-card
 	url = https://github.com/NataMellado/product-preview-component-challenge
 	branch = main
+[submodule "6-faq-accordion"]
+	path = 6-faq-accordion
+	url = https://github.com/NataMellado/faq-accordion
+	branch = main
