@@ -1,6 +1,6 @@
 # Frontend Mentor Challenges Repository
 
-Welcome to my Frontend Mentor Challenges Repository! This is where I'll be sharing the solutions to various challenges from Frontend Mentor, organized as modules.
+👋 Welcome! This is where I'll be sharing the solutions to various challenges from Frontend Mentor, organized as modules. 🚀
 
 ## How to Navigate
 
@@ -26,4 +26,4 @@ Feel free to explore each challenge's solution and provide feedback or suggestio
 ## Frontend Mentor Profile
 Visit my [Frontend Mentor profile](https://www.frontendmentor.io/profile/NataMellado) to see all the challenges I've completed and my overall progress.
 
-Happy coding! If you have any questions or suggestions, feel free to reach out.
+Happy coding! ✨ If you have any questions or suggestions, feel free to reach out. 
