@@ -22,3 +22,7 @@
 	path = 6-faq-accordion
 	url = https://github.com/NataMellado/faq-accordion
 	branch = main
+[submodule "7-testimonial-grid"]
+	path = 7-testimonial-grid
+	url = https://github.com/NataMellado/7-testimonial-grid
+	branch = main
