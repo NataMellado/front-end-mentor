@@ -26,3 +26,6 @@
 	path = 7-testimonial-grid
 	url = https://github.com/NataMellado/7-testimonial-grid
 	branch = main
+[submodule "8-video-entertainment-app"]
+	path = 8-video-entertainment-app
+	url = https://github.com/NataMellado/8-entertainment-web-app-front
