@@ -16,11 +16,14 @@ Each challenge solution is treated as a separate module in this repository. You 
 
 - [Challenge 4: Results summary component](https://www.frontendmentor.io/solutions/responsive-results-summary-component-with-javascript-CeWtamDJrH)
 
-- [Challenge 5: Product preview card](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
+- [Challenge 5: Product preview card](https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-grid-RpJwhnyyGZ)
 
 - [Challenge 6: FAQ accordion](https://www.frontendmentor.io/solutions/faq-accordion-using-javascript-cQ5hwFsGTE)
 
+- [Challenge 7: Testimonial grid](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-1FUsZbFRY_)
 
+- [Challenge 8: Entertainment web app ](https://www.frontendmentor.io/solutions/responsive-entertainment-web-app---frontend-SJdlztvP9T)
+  
 Feel free to explore each challenge's solution and provide feedback or suggestions!
 
 ## Frontend Mentor Profile
